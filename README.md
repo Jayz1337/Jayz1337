@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Jason (Iason) Mixopoulos
+--------------------------------------------------------------------------
+🎓 Computer Science student at Aristotle University of Thessaloniki (AUTH)
 
-<!--
-**Jayz1337/Jayz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about software development, problem-solving, and learning new technologies
 
-Here are some ideas to get you started:
+🧠 Languages & Tools
+--------------------------------------------------------------------------
+-Java ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-C++ ⚙️
+
+-C 🔧
+
+-Python 🐍
+
+-Git & GitHub 🧩
+
+-SQL, HTML, CSS 🌐
+
+🚀 What I’m Working On
+--------------------------------------------------------------------------
+-Building projects to strengthen my programming and design skills
+
+-Exploring algorithms, data structures, and backend development
+
+🌱 What I’m Learning
+--------------------------------------------------------------------------
+-Object-Oriented Programming (OOP)
+
+-Software engineering best practices
+
+-Real-world application development
+
+📫 Contact Me
+--------------------------------------------------------------------------
+📧 Email: iasonmixopoulos1@gmail.com
+
+🐙 GitHub: github.com/Jayz1337
+
+💼 LinkedIn: linkedin.com/in/michopoulos
