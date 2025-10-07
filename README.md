@@ -1,4 +1,4 @@
-👋 Hi, I'm Jason (Iason) Mixopoulos
+👋 Hi, I'm Jason (Iason) Michopoulos
 --------------------------------------------------------------------------
 🎓 Computer Science student at Aristotle University of Thessaloniki 2023 (AUTH) 
 
