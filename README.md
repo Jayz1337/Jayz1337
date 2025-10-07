@@ -1,6 +1,6 @@
 👋 Hi, I'm Jason (Iason) Mixopoulos
 --------------------------------------------------------------------------
-🎓 Computer Science student at Aristotle University of Thessaloniki (AUTH)
+🎓 Computer Science student at Aristotle University of Thessaloniki 2023 (AUTH) 
 
 💻 Passionate about software development, problem-solving, and learning new technologies
 
